@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "vet402 observatory data: x402 purchase ledger",
+  "creators": [{ "name": "KIZUNA Creation" }],
+  "description": "<p>Dated snapshots of the purchase ledger that vet402 keeps while it buys from x402 sellers with its own wallets. Each row is one purchase attempt with the seller's resource, the chain (CAIP-2), the price, the settlement transaction and the HTTP status of the paid answer. Each snapshot also carries the aggregate counts by chain and the daily series.</p><p>Column definitions: https://vet402.com/openapi.yaml (path /api/v1/observatory/export.csv). Method: https://vet402.com/observatory/methodology. Live figures: https://vet402.com/x402.</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["x402", "HTTP 402", "agent payments", "stablecoin payments", "USDC", "AI agents", "payment ledger", "API delivery"],
+  "related_identifiers": [
+    { "identifier": "https://vet402.com/x402", "relation": "isSupplementTo", "resource_type": "other" },
+    { "identifier": "https://vet402.com/observatory/methodology", "relation": "isDocumentedBy", "resource_type": "other" },
+    { "identifier": "https://github.com/kzmttkc/vet402", "relation": "isDerivedFrom", "resource_type": "software" }
+  ]
+}

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite the snapshot with its date."
+type: dataset
+title: "vet402 observatory data: x402 purchase ledger"
+authors:
+  - name: "KIZUNA Creation"
+url: "https://vet402.com/"
+repository-code: "https://github.com/kzmttkc/vet402-observatory-data"
+license: CC-BY-4.0
+version: "2026-11-12"
+date-released: "2026-11-12"
+keywords:
+  - x402
+  - HTTP 402
+  - agent payments
+  - USDC
