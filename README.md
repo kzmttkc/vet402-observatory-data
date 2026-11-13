@@ -1,5 +1,7 @@
 # vet402 observatory data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24195171.svg)](https://doi.org/10.5281/zenodo.24195171)
+
 Dated snapshots of the purchase ledger that [vet402](https://vet402.com/) keeps while it buys from x402 sellers with its own wallets. Each row is one purchase attempt: the seller's resource, the chain, the price, the settlement transaction and what the seller sent back.
 
 The live data is at https://vet402.com/x402 and the API below. This repository keeps fixed copies so a figure can be cited and checked later.
@@ -36,6 +38,9 @@ A snapshot is the ledger as it read on its retrieval date. When a row's status c
 
 CC BY 4.0 (see `LICENSE`). Cite the snapshot with its date:
 
-> KIZUNA Creation. vet402 observatory data, snapshot 2026-11-12. Dataset. https://vet402.com/
+> KIZUNA Creation. vet402 observatory data, snapshot 2026-11-12. Dataset. Zenodo. https://doi.org/10.5281/zenodo.24195172
 
-The DOI for each snapshot is on its release page and in `CITATION.cff`.
+| Snapshot | DOI |
+|---|---|
+| 2026-11-12 | [10.5281/zenodo.24195172](https://doi.org/10.5281/zenodo.24195172) |
+| Latest | [10.5281/zenodo.24195171](https://doi.org/10.5281/zenodo.24195171) resolves to the newest snapshot |

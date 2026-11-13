@@ -8,6 +8,14 @@ url: "https://vet402.com/"
 repository-code: "https://github.com/kzmttkc/vet402-observatory-data"
 license: CC-BY-4.0
 version: "2026-11-12"
+doi: 10.5281/zenodo.24195172
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24195171
+    description: "All snapshots. Resolves to the latest."
+  - type: doi
+    value: 10.5281/zenodo.24195172
+    description: "Snapshot 2026-11-12."
 date-released: "2026-11-12"
 keywords:
   - x402
