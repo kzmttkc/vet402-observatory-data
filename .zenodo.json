@@ -9,6 +9,6 @@
   "related_identifiers": [
     { "identifier": "https://vet402.com/x402", "relation": "isSupplementTo", "resource_type": "other" },
     { "identifier": "https://vet402.com/observatory/methodology", "relation": "isDocumentedBy", "resource_type": "other" },
-    { "identifier": "https://github.com/kzmttkc/vet402", "relation": "isDerivedFrom", "resource_type": "software" }
+    { "identifier": "https://github.com/vet402/vet402", "relation": "isDerivedFrom", "resource_type": "software" }
   ]
 }
