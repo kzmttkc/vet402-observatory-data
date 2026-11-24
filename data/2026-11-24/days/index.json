@@ -1,0 +1,408 @@
+{
+  "days": {
+    "2026-08-14": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-15": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-08-16": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-17": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-18": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-08-19": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-20": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-21": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-22": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-08-23": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-24": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-25": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-08-26": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-27": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-28": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-29": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-30": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-08-31": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-01": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-02": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-03": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-04": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-05": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-06": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-07": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-08": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-09": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-10": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-11": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-12": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-13": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-14": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-09-15": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-16": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-09-17": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-18": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-19": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-20": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-21": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-22": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-23": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-24": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-25": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-09-26": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-27": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-09-28": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-09-29": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-09-30": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-01": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-02": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-03": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-04": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-05": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-10-06": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-07": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-08": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-09": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-10": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-11": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-12": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-13": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-10-14": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-15": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-16": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-10-17": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-10-18": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-19": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-20": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-21": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-22": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-23": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-24": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-25": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-26": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-27": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-28": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-29": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-30": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-10-31": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-01": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-02": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-03": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-04": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-05": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-06": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-07": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-08": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-09": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-10": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-11": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-12": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-13": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-14": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-15": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-16": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-17": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-18": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-19": {
+      "source": "sealed",
+      "verification": "ok"
+    },
+    "2026-11-20": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-21": {
+      "source": "current",
+      "verification": "payload_does_not_match_head"
+    },
+    "2026-11-22": {
+      "source": "sealed",
+      "verification": "no_chain_root"
+    }
+  }
+}
